@@ -31,12 +31,17 @@ We use reasonable measures to protect information from unauthorized access, use,
 ## Contact us
 
 Contact Information
+
 If you have questions about this privacy policy or our handling of your information, please contact the message sender using the contact details provided in the message, including the business phone number, email address, and/or mailing address.
 
 Savvy Auto Sales LLC 
+
+mailing address.
 410 N Wilson Rd  
 Columbus, OH 43204  
-Phone: (614) 525-0039
+
+business phone number (614) 525-0039
+
 Email: maurcio@savvyautosales.net
 Website: savvyautosale.com
 
