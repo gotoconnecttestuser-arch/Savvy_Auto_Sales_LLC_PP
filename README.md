@@ -20,6 +20,12 @@ We do not sell or rent your mobile phone number or SMS opt-in information. **We 
 
 **Text messaging originator opt-in data and consent will not be shared with any third parties, except service providers that support delivery of our messaging program.**
 
+Data Transfer Restrictions
+Your data will not be transferred to external organizations, except where necessary to provide our services through essential service providers acting strictly on our behalf and not for their own use.
+
+Protection Against Unauthorized Sharing
+We maintain administrative, technical, and physical safeguards designed to protect personal information against unauthorized access, use, or disclosure.
+
 ## Your choices
 
 You can opt out of SMS messages at any time by replying **STOP**. For help, reply **HELP** or contact us using the information below. Opting out of texts will not prevent you from contacting us by phone, email, or in person.
