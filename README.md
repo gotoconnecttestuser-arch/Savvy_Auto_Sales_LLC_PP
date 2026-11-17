@@ -1,5 +1,3 @@
-Below are ready-to-publish drafts. They’re designed to support A2P 10DLC registration, but compliance also depends on how Savvy Auto Sales collects consent and operates its messaging program. Make sure the opt-in language and practices match what’s described here.
-
 # SMS Privacy Policy
 
 **Effective date: November 17, 2026**
