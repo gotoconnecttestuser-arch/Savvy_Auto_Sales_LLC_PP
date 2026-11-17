@@ -30,7 +30,8 @@ We use reasonable measures to protect information from unauthorized access, use,
 
 ## Contact us
 
-For questions about this policy or our SMS program, contact:
+Contact Information
+If you have questions about this privacy policy or our handling of your information, please contact the message sender using the contact details provided in the message, including the business phone number, email address, and/or mailing address.
 
 **Savvy Auto Sales LLC**  
 410 N Wilson Rd  
@@ -39,4 +40,3 @@ Phone: **(614) 525-0039**
 Email: **maurcio@savvyautosales.net**  
 Website: **savvyautosale.com**
 
-“By checking this box, I agree to receive customer-care text messages from Savvy Auto Sales LLC about my vehicle inquiries, appointments, purchase updates, service reminders, and account-related notifications. Message frequency varies. Message and data rates may apply. Reply STOP to opt out or HELP for help. Consent is not a condition of purchase. See our SMS Privacy Policy and SMS Terms and Conditions.”
